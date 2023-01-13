@@ -4,8 +4,6 @@ import {useSelector,useDispatch} from 'react-redux'
 
 // Action creator
 
-
-
 function Counter() {
 
   const hookSelector = useSelector((state)=>{
